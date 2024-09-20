@@ -23,3 +23,7 @@ A timeline visual that breaks down each tournament year, offering a snapshot of 
 A gauge chart quickly compares various teams across different metrics such as average goals scored. This chart helps identify consistent performers and surprise underdogs. 🚀🔍
 
 Each of these visuals reflects a story of its own, offering deeper insights into the history of the FIFA World Cup. I used advanced 𝗗𝗔𝗫 𝗳𝗼𝗿𝗺𝘂𝗹𝗮𝘀 to enrich these visuals with dynamic interactions that make exploring the data even more engaging.
+
+<img width="857" alt="FIFA Football World Cup Analysis Pic 1" src="https://github.com/user-attachments/assets/5f3e4352-9d15-4963-8817-32d058e7cd25">
+<img width="853" alt="FIFA Football World Cup Analysis Pic 2" src="https://github.com/user-attachments/assets/d0579223-7d74-447f-8d15-94634ce741f5">
+<img width="851" alt="FIFA Football World Cup Analysis Pic 3" src="https://github.com/user-attachments/assets/5596aeb1-1aca-4972-bfbd-2258097564af">
